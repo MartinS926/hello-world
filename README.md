@@ -10,3 +10,5 @@ Affichage d'un *hello world* avec Python, en utilsant les fonctions de base
 - [x] Installer VS Code et Python
 - [ ] Coder le programme en Python
 - [ ] L'uploader dans le repository GitHub
+
+(fin de l'édition du README)
